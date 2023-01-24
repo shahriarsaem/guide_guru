@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468584085038",
+    "project_id": "guide-942b2",
+    "storage_bucket": "guide-942b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468584085038:android:c9ddf64ead6270a4c991bf",
+        "android_client_info": {
+          "package_name": "com.example.guide_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468584085038-smg955nav2tsl6uns3eilqvqorvccesr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0XzYhWvC4EvQ-Tc5cq-rBnFKrJnlN3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468584085038-smg955nav2tsl6uns3eilqvqorvccesr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
